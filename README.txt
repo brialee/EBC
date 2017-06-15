@@ -2,7 +2,7 @@ README
 
 
 System & Compiler:
-	- Linux, C++ standard 98 using GNU GCC C++ (g++) compiler
+	- Linux, C++ standard 98 using GNU C++ (g++) compiler
 
 
 Program abstract:

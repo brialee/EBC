@@ -1,0 +1,100 @@
+*Brian Lee
+*CS202 - Fant
+*Program 3
+*
+*
+*This is the text file that will store contact methods for a given individual.
+*The format for a person and their contact methods are as follows:
+*< <---TO START
+*First Name:Last Name
+*title for method:description of method:number for method's priority
+*title:description:rank
+*title:description:rank
+*> <--- TO END
+*
+*
+*Notice that each person should have no more than 3 contact methods. If you provide less
+*than 3 methods of contact per person then there will be contact methods that will display
+*something to the effect of "Empty Contact Method" should that person's contact list be displayed.
+*Similarly, if two methods of contact have the same rank, the most recent one will be added to a person's
+*contact list for that rank. Ex. If, for a given person contact1 has the same rank as contact2, assuming that
+*contact2 comes after contact1, contact2 will take the place of contact1 in the person's contact list for that
+*particular rank. 
+*
+*
+*
+<
+Shirley:Manloaf
+Phone:509-453-0981:1
+Mobile:509-276-3489:2
+Mr. Manloaf Mobile:509-276-3491:3
+>
+*
+<
+Amanda:Harrington
+Phone:(822) 186-7175:1
+Mobile:(833) 704-2766:2
+Spouse:(855) 410-7917:3
+>
+*
+<
+Glenn:Carpenter
+Phone:(855) 682-7694:1
+Mobile:(855) 878-1897:2
+Spouse:(899) 563-8562:3
+>
+*
+<
+Rick:Doyle
+Phone:(822) 647-8270:1
+Mobile:(833) 361-0076:2
+Spouse:(844) 725-5311:3
+>
+*
+<
+Kendra:Peterson
+Phone:(855) 785-2283:1
+Mobile:(833) 697-0180:2
+Spouse:(833) 225-5636:3
+>
+*
+<
+Jay:Russell
+Fax:(899) 199-0705:1
+Phone:(899) 197-2543:2
+Mobile:(899) 922-1320:3
+>
+*
+<
+Ervin:Dean
+Phone:(833) 726-0248:1
+Mobile:(899) 575-8981:2
+Boss:(811) 688-7157:3
+>
+*
+<
+Raymond	:Mullins
+Phone:(822) 854-1109:1
+Mobile:(855) 590-1207:2
+Neighbor:(811) 990-5322:3
+>
+*
+<
+Gertrude:Rios
+Daughter:(822) 759-9026:1
+Mobile:(833) 588-6366:2
+Caretaker:(822) 836-8539:3
+>
+*
+<
+Garrett:Bryant
+Phone:(822) 962-0542:1
+Mobile:(899) 419-1243:2
+Mistress:(899) 028-1047:3
+>
+*
+<
+Jasmine:Arnold
+Phone:(855) 141-8916:1
+Mobile:(855) 452-5091:2
+Spouse:(833) 003-8614:3
